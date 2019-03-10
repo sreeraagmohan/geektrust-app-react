@@ -1,0 +1,10 @@
+@import '../../styles.scss';
+
+#wrapper {
+  background: #434343;
+  background: linear-gradient(45deg, #434343, #000000);
+  .main {
+    display: flex;
+    min-height: 80vh;
+  }
+}
